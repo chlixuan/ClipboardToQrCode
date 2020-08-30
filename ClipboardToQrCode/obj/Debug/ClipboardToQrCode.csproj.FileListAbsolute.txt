@@ -1,0 +1,13 @@
+E:\remote\programs\CSharp\QRCode\ClipboardToQrCode\bin\Debug\ClipboardToQrCode.exe.config
+E:\remote\programs\CSharp\QRCode\ClipboardToQrCode\bin\Debug\ClipboardToQrCode.exe
+E:\remote\programs\CSharp\QRCode\ClipboardToQrCode\bin\Debug\ClipboardToQrCode.pdb
+E:\remote\programs\CSharp\QRCode\ClipboardToQrCode\bin\Debug\QRCodeLibEx.dll
+E:\remote\programs\CSharp\QRCode\ClipboardToQrCode\bin\Debug\QRCodeLibEx.pdb
+E:\remote\programs\CSharp\QRCode\ClipboardToQrCode\obj\Debug\ClipboardToQrCode.csprojAssemblyReference.cache
+E:\remote\programs\CSharp\QRCode\ClipboardToQrCode\obj\Debug\ClipboardToQrCode.FormConverting.resources
+E:\remote\programs\CSharp\QRCode\ClipboardToQrCode\obj\Debug\ClipboardToQrCode.Properties.Resources.resources
+E:\remote\programs\CSharp\QRCode\ClipboardToQrCode\obj\Debug\ClipboardToQrCode.csproj.GenerateResource.cache
+E:\remote\programs\CSharp\QRCode\ClipboardToQrCode\obj\Debug\ClipboardToQrCode.csproj.CoreCompileInputs.cache
+E:\remote\programs\CSharp\QRCode\ClipboardToQrCode\obj\Debug\ClipboardToQrCode.csproj.CopyComplete
+E:\remote\programs\CSharp\QRCode\ClipboardToQrCode\obj\Debug\ClipboardToQrCode.exe
+E:\remote\programs\CSharp\QRCode\ClipboardToQrCode\obj\Debug\ClipboardToQrCode.pdb

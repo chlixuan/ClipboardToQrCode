@@ -1,0 +1,24 @@
+D:\My Documents\Downloads\QRCode\QRCode\QRCodeLibEx\obj\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Downloads\QRCode\QRCode\QRCodeLibEx\obj\Debug\QRCodeLibEx.Properties.Resources.resources
+D:\My Documents\Downloads\QRCode\QRCode\QRCodeLibEx\obj\Debug\GenerateResource.read.1.tlog
+D:\My Documents\Downloads\QRCode\QRCode\QRCodeLibEx\obj\Debug\GenerateResource.write.1.tlog
+D:\My Documents\Downloads\QRCode\QRCode\QRCodeLibEx\bin\Debug\QRCodeLibEx.dll
+D:\My Documents\Downloads\QRCode\QRCode\QRCodeLibEx\bin\Debug\QRCodeLibEx.pdb
+D:\My Documents\Downloads\QRCode\QRCode\QRCodeLibEx\obj\Debug\QRCodeLibEx.dll
+D:\My Documents\Downloads\QRCode\QRCode\QRCodeLibEx\obj\Debug\QRCodeLibEx.pdb
+E:\clx\works\evprojects\EV2010\evRpt\QRCodeLibEx\bin\Debug\QRCodeLibEx.dll
+E:\clx\works\evprojects\EV2010\evRpt\QRCodeLibEx\bin\Debug\QRCodeLibEx.pdb
+E:\clx\works\evprojects\EV2010\evRpt\QRCodeLibEx\obj\Debug\ResolveAssemblyReference.cache
+E:\clx\works\evprojects\EV2010\evRpt\QRCodeLibEx\obj\Debug\QRCodeLibEx.Properties.Resources.resources
+E:\clx\works\evprojects\EV2010\evRpt\QRCodeLibEx\obj\Debug\GenerateResource.read.1.tlog
+E:\clx\works\evprojects\EV2010\evRpt\QRCodeLibEx\obj\Debug\GenerateResource.write.1.tlog
+E:\clx\works\evprojects\EV2010\evRpt\QRCodeLibEx\obj\Debug\QRCodeLibEx.dll
+E:\clx\works\evprojects\EV2010\evRpt\QRCodeLibEx\obj\Debug\QRCodeLibEx.pdb
+E:\remote\programs\CSharp\QRCode\QRCodeLibEx\bin\Debug\QRCodeLibEx.dll
+E:\remote\programs\CSharp\QRCode\QRCodeLibEx\bin\Debug\QRCodeLibEx.pdb
+E:\remote\programs\CSharp\QRCode\QRCodeLibEx\obj\Debug\QRCodeLibEx.Properties.Resources.resources
+E:\remote\programs\CSharp\QRCode\QRCodeLibEx\obj\Debug\QRCodeLibEx.csproj.GenerateResource.Cache
+E:\remote\programs\CSharp\QRCode\QRCodeLibEx\obj\Debug\QRCodeLibEx.dll
+E:\remote\programs\CSharp\QRCode\QRCodeLibEx\obj\Debug\QRCodeLibEx.pdb
+E:\remote\programs\CSharp\QRCode\QRCodeLibEx\obj\Debug\QRCodeLibEx.csprojAssemblyReference.cache
+E:\remote\programs\CSharp\QRCode\QRCodeLibEx\obj\Debug\QRCodeLibEx.csproj.CoreCompileInputs.cache

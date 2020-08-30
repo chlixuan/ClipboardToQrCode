@@ -1,0 +1,12 @@
+E:\remote\programs\CSharp\QRCode\QRCodeLibExTest\bin\Debug\QRCodeLibExTest.exe
+E:\remote\programs\CSharp\QRCode\QRCodeLibExTest\bin\Debug\QRCodeLibExTest.pdb
+E:\remote\programs\CSharp\QRCode\QRCodeLibExTest\bin\Debug\QRCodeLibEx.dll
+E:\remote\programs\CSharp\QRCode\QRCodeLibExTest\bin\Debug\QRCodeLibEx.pdb
+E:\remote\programs\CSharp\QRCode\QRCodeLibExTest\obj\x86\Debug\QRCodeLibExTest.FormMain.resources
+E:\remote\programs\CSharp\QRCode\QRCodeLibExTest\obj\x86\Debug\QRCodeLibExTest.Properties.Resources.resources
+E:\remote\programs\CSharp\QRCode\QRCodeLibExTest\obj\x86\Debug\QRCodeLibExTest.csproj.GenerateResource.Cache
+E:\remote\programs\CSharp\QRCode\QRCodeLibExTest\obj\x86\Debug\QRCodeLibExTest.exe
+E:\remote\programs\CSharp\QRCode\QRCodeLibExTest\obj\x86\Debug\QRCodeLibExTest.pdb
+E:\remote\programs\CSharp\QRCode\QRCodeLibExTest\obj\x86\Debug\QRCodeLibExTest.csprojAssemblyReference.cache
+E:\remote\programs\CSharp\QRCode\QRCodeLibExTest\obj\x86\Debug\QRCodeLibExTest.csproj.CoreCompileInputs.cache
+E:\remote\programs\CSharp\QRCode\QRCodeLibExTest\obj\x86\Debug\QRCodeLibExTest.csproj.CopyComplete

@@ -1,0 +1,11 @@
+E:\clx\works\evprojects\EVSRC-CLIENT\DHCT\EV-2010\evRpt\QRCodeLibExTest\bin\Release\QRCodeLibExTest.exe
+E:\clx\works\evprojects\EVSRC-CLIENT\DHCT\EV-2010\evRpt\QRCodeLibExTest\bin\Release\QRCodeLibExTest.pdb
+E:\clx\works\evprojects\EVSRC-CLIENT\DHCT\EV-2010\evRpt\QRCodeLibExTest\bin\Release\QRCodeLibEx.dll
+E:\clx\works\evprojects\EVSRC-CLIENT\DHCT\EV-2010\evRpt\QRCodeLibExTest\bin\Release\QRCodeLibEx.pdb
+E:\clx\works\evprojects\EVSRC-CLIENT\DHCT\EV-2010\evRpt\QRCodeLibExTest\obj\x86\Release\ResolveAssemblyReference.cache
+E:\clx\works\evprojects\EVSRC-CLIENT\DHCT\EV-2010\evRpt\QRCodeLibExTest\obj\x86\Release\QRCodeLibExTest.FormMain.resources
+E:\clx\works\evprojects\EVSRC-CLIENT\DHCT\EV-2010\evRpt\QRCodeLibExTest\obj\x86\Release\QRCodeLibExTest.Properties.Resources.resources
+E:\clx\works\evprojects\EVSRC-CLIENT\DHCT\EV-2010\evRpt\QRCodeLibExTest\obj\x86\Release\GenerateResource.read.1.tlog
+E:\clx\works\evprojects\EVSRC-CLIENT\DHCT\EV-2010\evRpt\QRCodeLibExTest\obj\x86\Release\GenerateResource.write.1.tlog
+E:\clx\works\evprojects\EVSRC-CLIENT\DHCT\EV-2010\evRpt\QRCodeLibExTest\obj\x86\Release\QRCodeLibExTest.exe
+E:\clx\works\evprojects\EVSRC-CLIENT\DHCT\EV-2010\evRpt\QRCodeLibExTest\obj\x86\Release\QRCodeLibExTest.pdb

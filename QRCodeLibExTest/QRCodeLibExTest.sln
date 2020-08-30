@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRCodeLibExTest", "QRCodeLibExTest.csproj", "{DB964C8D-D1B2-41CD-8E98-DE213E6C6241}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRCodeLibEx", "..\QRCodeLibEx\QRCodeLibEx.csproj", "{B319910C-DF0C-4CFE-9DA9-5E1EF9176A0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClipboardToQrCode", "..\ClipboardToQrCode\ClipboardToQrCode.csproj", "{DD9BB9D9-063E-4867-B0A3-9E6397EE21A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB964C8D-D1B2-41CD-8E98-DE213E6C6241}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{DB964C8D-D1B2-41CD-8E98-DE213E6C6241}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{DB964C8D-D1B2-41CD-8E98-DE213E6C6241}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{DB964C8D-D1B2-41CD-8E98-DE213E6C6241}.Debug|x86.ActiveCfg = Debug|x86
+		{DB964C8D-D1B2-41CD-8E98-DE213E6C6241}.Debug|x86.Build.0 = Debug|x86
+		{DB964C8D-D1B2-41CD-8E98-DE213E6C6241}.Release|Any CPU.ActiveCfg = Release|x86
+		{DB964C8D-D1B2-41CD-8E98-DE213E6C6241}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{DB964C8D-D1B2-41CD-8E98-DE213E6C6241}.Release|Mixed Platforms.Build.0 = Release|x86
+		{DB964C8D-D1B2-41CD-8E98-DE213E6C6241}.Release|x86.ActiveCfg = Release|x86
+		{DB964C8D-D1B2-41CD-8E98-DE213E6C6241}.Release|x86.Build.0 = Release|x86
+		{B319910C-DF0C-4CFE-9DA9-5E1EF9176A0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B319910C-DF0C-4CFE-9DA9-5E1EF9176A0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B319910C-DF0C-4CFE-9DA9-5E1EF9176A0F}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{B319910C-DF0C-4CFE-9DA9-5E1EF9176A0F}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{B319910C-DF0C-4CFE-9DA9-5E1EF9176A0F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B319910C-DF0C-4CFE-9DA9-5E1EF9176A0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B319910C-DF0C-4CFE-9DA9-5E1EF9176A0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B319910C-DF0C-4CFE-9DA9-5E1EF9176A0F}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{B319910C-DF0C-4CFE-9DA9-5E1EF9176A0F}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{B319910C-DF0C-4CFE-9DA9-5E1EF9176A0F}.Release|x86.ActiveCfg = Release|Any CPU
+		{DD9BB9D9-063E-4867-B0A3-9E6397EE21A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD9BB9D9-063E-4867-B0A3-9E6397EE21A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD9BB9D9-063E-4867-B0A3-9E6397EE21A2}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{DD9BB9D9-063E-4867-B0A3-9E6397EE21A2}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{DD9BB9D9-063E-4867-B0A3-9E6397EE21A2}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{DD9BB9D9-063E-4867-B0A3-9E6397EE21A2}.Debug|x86.Build.0 = Debug|Any CPU
+		{DD9BB9D9-063E-4867-B0A3-9E6397EE21A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD9BB9D9-063E-4867-B0A3-9E6397EE21A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD9BB9D9-063E-4867-B0A3-9E6397EE21A2}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{DD9BB9D9-063E-4867-B0A3-9E6397EE21A2}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{DD9BB9D9-063E-4867-B0A3-9E6397EE21A2}.Release|x86.ActiveCfg = Release|Any CPU
+		{DD9BB9D9-063E-4867-B0A3-9E6397EE21A2}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96FFE649-D036-47DE-B035-3F893E178AE5}
+	EndGlobalSection
+EndGlobal
