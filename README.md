@@ -1,5 +1,6 @@
 # ClipboardToQrCode
 借助二维码，帮你复制网址或文本到手机或平板。
+
 Help your to Copy Url or Text from your PC to your Phone/Pad via  QrCode。
 
 # 怎么使用/How to use
@@ -18,6 +19,7 @@ Help your to Copy Url or Text from your PC to your Phone/Pad via  QrCode。
 
 # 原理/How it works
 程序从剪切板提取文本，将文本转换成二维码显示出来，手机扫二维码从而获得网址或文本。
+
 生成二维码调用的是库 ThoughtWorks.QRCode 。
 
 The program extracts text from the clipboard, converts the text into a QR code and displays it. Mobile devices such as mobile phones or pads scan the QR code to obtain the website address or text.
