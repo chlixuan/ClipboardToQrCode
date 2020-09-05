@@ -1,7 +1,7 @@
 # ClipboardToQrCode
 借助二维码，帮你复制网址或文本到手机或平板。
 
-Help your to Copy Url or Text from your PC to your Phone/Pad via  QrCode。
+Help you to Copy Url or Text from your PC to your Phone/Pad via  QrCode。
 
 # 怎么使用/How to use
 
