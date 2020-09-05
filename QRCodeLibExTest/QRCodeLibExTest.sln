@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRCodeLibEx", "..\QRCodeLib
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClipboardToQrCode", "..\ClipboardToQrCode\ClipboardToQrCode.csproj", "{DD9BB9D9-063E-4867-B0A3-9E6397EE21A2}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "..\Setup1\Setup1.vdproj", "{46487D9C-2626-40AF-B746-BE1C96B9301B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,12 @@ Global
 		{DD9BB9D9-063E-4867-B0A3-9E6397EE21A2}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{DD9BB9D9-063E-4867-B0A3-9E6397EE21A2}.Release|x86.ActiveCfg = Release|Any CPU
 		{DD9BB9D9-063E-4867-B0A3-9E6397EE21A2}.Release|x86.Build.0 = Release|Any CPU
+		{46487D9C-2626-40AF-B746-BE1C96B9301B}.Debug|Any CPU.ActiveCfg = Debug
+		{46487D9C-2626-40AF-B746-BE1C96B9301B}.Debug|Mixed Platforms.ActiveCfg = Debug
+		{46487D9C-2626-40AF-B746-BE1C96B9301B}.Debug|x86.ActiveCfg = Debug
+		{46487D9C-2626-40AF-B746-BE1C96B9301B}.Release|Any CPU.ActiveCfg = Release
+		{46487D9C-2626-40AF-B746-BE1C96B9301B}.Release|Mixed Platforms.ActiveCfg = Release
+		{46487D9C-2626-40AF-B746-BE1C96B9301B}.Release|x86.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
