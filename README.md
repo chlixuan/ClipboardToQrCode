@@ -5,17 +5,33 @@ Help you to Copy Url or Text from your PC to your Phone/Pad via  QrCode。
 
 # 怎么使用/How to use
 
+
+
 1.电脑上按下ctrl+c复制网址或文本到剪切板
-
-2.点开程序，它会自动将剪切板中网址或文本转成二维码显示出来
-
-3.打开微信或浏览器扫码二维码
 
 1.Press Ctrl + C on the computer to copy the web address or text to the clipboard
 
+![image](https://raw.githubusercontent.com/chlixuan/ClipboardToQrCode/master/ClipboardToQrCode/steps/step1.jpg)
+
+2.点开程序，它会自动将剪切板中网址或文本转成二维码显示出来
+
 2.Open this program, which will automatically display  a qr code containing the web address or text in the clipboard
 
+![image](https://raw.githubusercontent.com/chlixuan/ClipboardToQrCode/master/ClipboardToQrCode/steps/step2.jpg)
+
+
+3.打开微信或浏览器扫码二维码
+
 3.Open an app such as wechat or browser in your mobile devices to scan QR code
+
+![image](https://raw.githubusercontent.com/chlixuan/ClipboardToQrCode/master/ClipboardToQrCode/steps/step3.jpg)
+
+4.在手机/平板式浏览页面
+
+4.View page/text on your Phone/Pad
+
+![image](https://raw.githubusercontent.com/chlixuan/ClipboardToQrCode/master/ClipboardToQrCode/steps/step-successful.jpg)
+
 
 # 原理/How it works
 程序从剪切板提取文本，将文本转换成二维码显示出来，手机扫二维码从而获得网址或文本。
