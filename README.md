@@ -5,6 +5,11 @@ Help you to Copy Url or Text from your PC to your Phone/Pad via  QrCode。
 
 # 怎么使用/How to use
 
+![image](https://raw.githubusercontent.com/chlixuan/ClipboardToQrCode/master/ClipboardToQrCode/steps/step1.jpg)
+![image](https://raw.githubusercontent.com/chlixuan/ClipboardToQrCode/master/ClipboardToQrCode/steps/step2.jpg)
+![image](https://raw.githubusercontent.com/chlixuan/ClipboardToQrCode/master/ClipboardToQrCode/steps/step3.jpg)
+![image](https://raw.githubusercontent.com/chlixuan/ClipboardToQrCode/master/ClipboardToQrCode/steps/step-successful.jpg)
+
 1.电脑上按下ctrl+c复制网址或文本到剪切板
 
 2.点开程序，它会自动将剪切板中网址或文本转成二维码显示出来
